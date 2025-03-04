@@ -7,15 +7,8 @@
 </div>
 </p>
 
-## My Statistics
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alriansyah&theme=algolia" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alriansyah&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-
 ## Programming Languages
-<p align ="center">
+<p align ="left">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alriansyah&layout=compact&theme=algolia" />
 </p>
 <br>
