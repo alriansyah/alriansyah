@@ -6,6 +6,6 @@
 
 ## Programming Languages
 <p align ="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alriansyah&layout=compact&theme=algolia" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alriansyah&layout=compact&theme=algolia" />
 </p>
 
