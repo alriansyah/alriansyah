@@ -5,4 +5,4 @@
 </div>
 
 ## Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alriansyah&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top](https://github-readme-stats.vercel.app/api?username=alriansyah&show_icons=true&theme=radical)
