@@ -12,6 +12,7 @@
             <img
               src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alriansyah&theme=2077&hide_border=true"
               alt="Top Languages"
+              width="100%"
               height="150"
             />
           </td>
